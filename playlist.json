@@ -1,42 +1,12 @@
 {
   "playlist": [
     {
-      "song": "Elton John - Your Song",
-      "artist": "DJ Fer",
-      "url": "https://res.cloudinary.com/djfvid/video/upload/v1710475558/Elton_John_-_Your_Song_jqfjzf.mp4",
-      "cover": ""
+      "title": "Elton John - Your Song",
+      "url": "https://res.cloudinary.com/djfvid/video/upload/v1710475558/Elton_John_-_Your_Song_jqfjzf.mp4"
     },
-  {
-  "playlist": [
     {
-      "song": "Foreigner - Urgent",
-      "artist": "DJ Fer",
-      "url": "https://res.cloudinary.com/djfvid/video/upload/v1711774664/Foreigner_-_Urgent_ruibqv.mp4",
-      "cover": ""
-    },
-  {
-  "playlist": [
-    {
-      "song": "Terraza Mix",
-      "artist": "DJ Fer",
-      "url": "https://res.cloudinary.com/djfer/video/upload/v1720391226/Wix3/Terraza%20Mix.mp3",
-      "cover": "https://res.cloudinary.com/djfer/image/upload/v1769056789/wix4/djfer.gif"
-    },
-  {
-  "playlist": [
-    {
-      "song": "Salsa Romantica Mix",
-      "artist": "DJ Fer",
-      "url": "https://res.cloudinary.com/djfer/video/upload/v1709092818/Wix2/Salsa_Romantica_Mix_b4b0o7.mp3",
-      "cover": "https://res.cloudinary.com/djfer/image/upload/v1769056789/wix4/djfer.gif"
-    },
-  {
-  "playlist": [
-    {
-      "song": "Paul Mc Cartney - Let it be",
-      "artist": "DJ Fer",
-      "url": "https://res.cloudinary.com/djfvid/video/upload/v1711776470/Paul_McCartney_-_Let_it_be_dbvjuf.mp4",
-      "cover": ""
-    }  
+      "title": "Salsa Romantica Mix",
+      "url": "https://res.cloudinary.com/djfer/video/upload/v1709092818/Wix2/Salsa_Romantica_Mix_b4b0o7.mp3"
+    }
   ]
 }
