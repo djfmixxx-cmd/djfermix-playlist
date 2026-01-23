@@ -11,5 +11,44 @@
     "title": "Elton John - Your Song",
     "artist": "DJ Fer",
     "url": "https://res.cloudinary.com/djfvid/video/upload/v1710475558/Elton_John_-_Your_Song_jqfjzf.mp4"
+  },
+  {
+    "type": "audio",
+    "title": "Cumbia Mix",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/djfer/video/upload/v1760250205/wix4/Cumbia_Mix.mp3",
+    "cover": "https://res.cloudinary.com/djfer/image/upload/v1769056789/wix4/djfer.gif"
+  },
+   {
+    "type": "audio",
+    "title": "Salsa de Ayer y Hoy Mix",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/djfer/video/upload/v1720391068/Wix3/Salsa%20de%20Ayer%20y%20Hoy%20Mix.mp3",
+    "cover": "https://res.cloudinary.com/djfer/image/upload/v1769056789/wix4/djfer.gif"
+  },
+  {
+    "type": "audio",
+    "title": "Just Relax Mix",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/djfer/video/upload/v1714803061/Wix2/Just_Relax_Mix_emw6vi.mp3",
+    "cover": "https://res.cloudinary.com/djfer/image/upload/v1769056789/wix4/djfer.gif"
+  },
+  {
+    "type": "video",
+    "title": "Foreigner - Urgent",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/djfvid/video/upload/v1711774664/Foreigner_-_Urgent_ruibqv.mp4"
+  },
+  {
+    "type": "video",
+    "title": "Billy Joel - Honesty",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/djfvid/video/upload/v1710475557/Billy_Joel_-_Honesty_zfktud.mp4"
+  },
+  {
+    "type": "video",
+    "title": "Bryan Adams - Heaven ",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/djfvid/video/upload/v1710475557/Bryan_Adams_-_Heaven_h9crhf.mp4"
   }
 ]
