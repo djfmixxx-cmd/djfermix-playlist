@@ -50,5 +50,44 @@
     "title": "Bryan Adams - Heaven ",
     "artist": "DJ Fer",
     "url": "https://res.cloudinary.com/djfvid/video/upload/v1710475557/Bryan_Adams_-_Heaven_h9crhf.mp4"
-  }
+  },
+  {
+    "type": "video",
+    "title": "Joan Jett - Rock N Roll",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/dx7kc2quw/video/upload/v1769488668/Joan_Jett_-_Rock_N_Roll_pamxoo.mp4"
+  },
+  {
+    "type": "video",
+    "title": "John Fogerty - Rock And Roll Girls",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/dx7kc2quw/video/upload/v1769488650/John_Fogerty_-_Rock_And_Roll_Girls_rbmx8z.mp4"
+  },
+  {
+    "type": "video",
+    "title": "Barbara Streisand - Woman In Love",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/dx7kc2quw/video/upload/v1769488647/Barbra_Streisand_-_Woman_In_Love_nm6ili.mp4"
+  },
+  {
+    "type": "audio",
+    "title": "Grease Mix",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/dx7kc2quw/video/upload/v1769484563/Grease_Mix_ibuqgp.mp3",
+    "cover": "https://res.cloudinary.com/djfer/image/upload/v1769056789/wix4/djfer.gif"
+  },
+  {
+    "type": "audio",
+    "title": "Peru Rock Mix",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/dx7kc2quw/video/upload/v1769484612/Peru_Rock_Mix_128_vdan0b.mp3",
+    "cover": "https://res.cloudinary.com/djfer/image/upload/v1769056789/wix4/djfer.gif"
+  },
+  {
+    "type": "audio",
+    "title": "Salsa de Ayer y Hoy Mix",
+    "artist": "DJ Fer",
+    "url": "https://res.cloudinary.com/dx7kc2quw/video/upload/v1769484843/Salsa_de_Ayer_Hoy_Mix_128_tgoz6x.mp3",
+    "cover": "https://res.cloudinary.com/djfer/image/upload/v1769056789/wix4/djfer.gif"
+  },
 ]
